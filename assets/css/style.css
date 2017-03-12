@@ -183,8 +183,9 @@ form {
 .emailform .emailform .messageform p {
     padding-top: 5px;
 }
-.submitbutton {
-    color: #4aaaa5;
+.submit {
+    background-color: #4aaaa5;
+    color: white;
 }
 
 /* portfolio boxes */
@@ -196,6 +197,7 @@ form {
     position: relative;
     width: 33.3333333%;
     float: left;
+    margin-bottom: 15px;
 }
 .PortfolioTitles {
     bottom: 5px;
